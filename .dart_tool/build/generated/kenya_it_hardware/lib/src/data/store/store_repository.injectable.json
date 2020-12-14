@@ -1,0 +1,1 @@
+[{"type":{"name":"IStoreFacade","import":"package:kenya_it_hardware/src/data/store/store_repository.dart"},"typeImpl":{"name":"StoreFacade","import":"package:kenya_it_hardware/src/data/store/store_repository.dart"},"isAsync":false,"preResolve":false,"injectableType":2,"dependsOn":[],"environments":[],"dependencies":[],"constructorName":"","isAbstract":false}]

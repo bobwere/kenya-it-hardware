@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1006466248628",
+    "project_id": "kenya-it-hardware",
+    "storage_bucket": "kenya-it-hardware.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1006466248628:android:3956244ad55e56f226cce1",
+        "android_client_info": {
+          "package_name": "com.swyype.kenya_it_hardware"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1006466248628-fo97kep0gfh494qv395d6j2gehvijjmn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.swyype.kenya_it_hardware",
+            "certificate_hash": "8f6336f7cf5445649727213dd1d9533df13d4895"
+          }
+        },
+        {
+          "client_id": "1006466248628-31stbp1kmrh074ebv2bo4mbinc9qg2fg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAhfQz7yHpKm7HBQH9_Lf3gcPZi_EJuKnU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1006466248628-31stbp1kmrh074ebv2bo4mbinc9qg2fg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

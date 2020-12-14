@@ -1,0 +1,1 @@
+[{"type":{"name":"FirebaseUserMapper","import":"package:kenya_it_hardware/src/data/auth/firebase_user_mapper.dart"},"typeImpl":{"name":"FirebaseUserMapper","import":"package:kenya_it_hardware/src/data/auth/firebase_user_mapper.dart"},"isAsync":false,"preResolve":false,"injectableType":2,"dependsOn":[],"environments":[],"dependencies":[],"constructorName":"","isAbstract":false}]
